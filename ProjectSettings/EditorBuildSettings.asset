@@ -4,7 +4,11 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/ARHumanFaceTexture/ARHumanFaceTexture.unity
+    guid: 2f10fbcb6b014c64b812efe07e7ae319
   m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: 05028b36f73dc6e4b84442b7940f77b8, type: 2}
     UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 7b4f05ea57b0fb94f97da0e2827001c6, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: f083be487620eee4e84ced161747988a, type: 2}
